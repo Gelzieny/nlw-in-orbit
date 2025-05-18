@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    🔗 <img src="https://raw.githubusercontent.com/Gelzieny/nlw-in-orbit/4013d26fa38fdefdb1be5f180b8f9a7ae7bc07cd/.github/img/logo.svg"  alt="Logo in.orbit" />
+    🔗 <img src="https://raw.githubusercontent.com/Gelzieny/nlw-in-orbit/748b5f0b5c458be023abf3bcb9e0de96c9d94ddd/.github/img/logo.svg"  alt="Logo in.orbit" />
   </a>
 </p>
 

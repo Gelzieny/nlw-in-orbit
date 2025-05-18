@@ -55,13 +55,13 @@ O layout da aplicação está disponível no [Figma](<https://www.figma.com/desi
 ### Front-end
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Tela inicial" title="#TelaInicial" src="https://raw.githubusercontent.com/Gelzieny/nlw-in-orbit/4013d26fa38fdefdb1be5f180b8f9a7ae7bc07cd/.github/img/Empty.svg" width="400px">
+  <img alt="Tela inicial" title="#TelaInicial" src="https://raw.githubusercontent.com/Gelzieny/nlw-in-orbit/ba0588523dc5fa2b3a1b3aebecb48f2dcbb4e312/.github/img/Empty.svg" width="400px">
 
-  <img alt="Cadastrar meta" title="#CadastrarMeta" src="https://raw.githubusercontent.com/Gelzieny/nlw-in-orbit/4013d26fa38fdefdb1be5f180b8f9a7ae7bc07cd/.github/img/Create%20goal.svg" width="400px">
+  <img alt="Cadastrar meta" title="#CadastrarMeta" src="https://raw.githubusercontent.com/Gelzieny/nlw-in-orbit/ba0588523dc5fa2b3a1b3aebecb48f2dcbb4e312/.github/img/Create%20goal.svg" width="400px">
 
-  <img alt="Lista atividades" title="#ListaAtividades" src="https://raw.githubusercontent.com/Gelzieny/nlw-in-orbit/4013d26fa38fdefdb1be5f180b8f9a7ae7bc07cd/.github/img/Goals%20(empty).svg" width="400px">
+  <img alt="Lista atividades" title="#ListaAtividades" src="https://raw.githubusercontent.com/Gelzieny/nlw-in-orbit/ba0588523dc5fa2b3a1b3aebecb48f2dcbb4e312/.github/img/Goals%20(empty).svg" width="400px">
 
-  <img alt="Lista de meta" title="#ListaMeta" src="https://raw.githubusercontent.com/Gelzieny/nlw-in-orbit/4013d26fa38fdefdb1be5f180b8f9a7ae7bc07cd/.github/img/Goals.svg" width="400px">
+  <img alt="Lista de meta" title="#ListaMeta" src="https://raw.githubusercontent.com/Gelzieny/nlw-in-orbit/ba0588523dc5fa2b3a1b3aebecb48f2dcbb4e312/.github/img/Goals.svg" width="400px">
 </p>
 
 ## ⚙️ Funcionalidades
